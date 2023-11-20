@@ -1,0 +1,30 @@
+# Calculadora de Somatório
+
+Este é um projeto simples que inclui uma função JavaScript para calcular o somatório de números divisíveis por 3 ou 5 até um determinado número.
+Foi implementado uma estrutura báscia de testes automatizados usando o framework de testes Jest.
+
+Foi utilizado a biblioteca CSS tailwind para estilização da página que apresenta a função solicitada no desafio.
+
+## Funcionalidades
+
+A função `somatorioDivisiveis3e5` aceita um número inteiro positivo como argumento e retorna o somatório de todos os valores inteiros divisíveis por 3 ou 5 que são inferiores ao número fornecido.
+
+## Como Usar
+
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+```
+
+2. Instale as dependências:
+```bash
+npm install
+```
+
+3. Execute os testes automatizados:
+```bash
+npm test
+```
+
+4. Abra o arquivo index.html no navegador de sua preferência para utilizar a aplicação.
